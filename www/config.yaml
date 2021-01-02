@@ -1,0 +1,66 @@
+baseURL: https://do.slownie.com/
+defaultContentLanguage: pl
+theme: do.slownie.com-theme
+enableGitInfo: true
+
+title: Do.slownie.com
+
+imaging:
+  quality: 99
+
+params:
+  description: Piszemy pięknie o Bogu, Wierze i Kościele
+  homeMetaContent: Nazywamy się Dominika i Olga. Piszemy pięknie o Bogu, Wierze i Kościele
+  footer: ''
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2020
+  katex: false
+
+menu:
+  nav:
+    - name: Główna
+      url: /
+      weight: 1
+    - name: O nas
+      url: /o-nas/
+      weight: 2
+    - name: Kolorowanki
+      url: /kolorowanki/
+      weight: 3
+    - name: Instagram
+      url: /instagram/
+      weight: 4
+    - name: Kontakt
+      url: /kontakt/
+      weight: 5
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
