@@ -28,7 +28,7 @@ menu:
       url: /kolorowanki/
       weight: 3
     - name: Instagram
-      url: /instagram/
+      url: /TODO-instagram/
       weight: 4
     - name: Kontakt
       url: /kontakt/
