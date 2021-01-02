@@ -1,0 +1,3 @@
+[submodule "www/themes/do.slownie.com-theme"]
+	path = www/themes/do.slownie.com-theme
+	url = git@github.com:Jblew/do.slownie.com-theme.git
