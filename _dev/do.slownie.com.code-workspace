@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "../www/themes/do.slownie.com-theme"
 		}
 	],
 	"settings": {
