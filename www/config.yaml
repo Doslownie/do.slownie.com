@@ -15,12 +15,12 @@ params:
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2020
   katex: false
+  logoUrl: /img/doslownie-logo.svg
+  logoAlt: "Logo do.słownie"
+  logoHref: "/"
 
 menu:
   nav:
-    - name: Główna
-      url: /
-      weight: 1
     - name: O nas
       url: /o-nas/
       weight: 2
