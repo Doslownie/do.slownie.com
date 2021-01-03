@@ -18,6 +18,7 @@ params:
   logoUrl: /img/doslownie-logo.svg
   logoAlt: "Logo do.słownie"
   logoHref: "/"
+  instagramLink: "/"
 
 menu:
   nav:
