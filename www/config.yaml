@@ -19,6 +19,7 @@ params:
   logoAlt: "Logo do.słownie"
   logoHref: "/"
   instagramLink: "/"
+  contactLink: "/"
 
 menu:
   nav:
