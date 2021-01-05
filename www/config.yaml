@@ -20,6 +20,7 @@ params:
   logoHref: "/"
   instagramLink: "/"
   contactLink: "/"
+  mobileBreakpointPx: 576
 
 menu:
   nav:

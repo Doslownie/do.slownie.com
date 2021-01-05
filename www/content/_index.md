@@ -1,9 +1,12 @@
 ---
 ---
+<span class="mobile-hide">
 
-## {{< h 3 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
-## {{% doslownie 1 %}}
-{{% dots 1 %}}
+  ## {{< h 3 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
+  ## {{% doslownie 1 %}}
+  {{% dots 1 %}}
+
+</span>
 
 <p>
 {{< h 3 >}}
