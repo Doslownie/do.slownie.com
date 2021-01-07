@@ -18,8 +18,8 @@ params:
   logoUrl: /img/doslownie-logo.svg
   logoAlt: "Logo do.słownie"
   logoHref: "/"
-  instagramLink: "/"
-  contactLink: "/"
+  instagramLink: "https://instagram.com/do.slownie"
+  contactLink: "/kontakt/"
   mobileBreakpointPx: 576
 
 menu:
@@ -31,7 +31,7 @@ menu:
       url: /kolorowanki/
       weight: 3
     - name: Instagram
-      url: /TODO-instagram/
+      url: https://instagram.com/do.slownie
       weight: 4
     - name: Kontakt
       url: /kontakt/
