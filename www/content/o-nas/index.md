@@ -7,3 +7,5 @@
 <p>
 Połączyła nas działalność w <span class="text-accent">ASK Soli Deo. </span>
 </p>
+
+<span class="h1 text-dots">•••</span>
