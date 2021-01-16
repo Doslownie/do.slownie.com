@@ -1,0 +1,266 @@
+<style>
+/* Fonts */
+@font-face {
+    font-family: 'Jaapokki';
+    /* {{ $font := resources.Get "fonts/jaapokki-regular.woff" }} */
+    src: url('{{ $font.Permalink }}') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sacramento';
+    /* {{ $font := resources.Get "fonts/sacramento-regular.ttf" }} */
+    src: url('{{ $font.Permalink }}') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* Variables */
+html {
+  --color-text: #6C6C6C;
+  --color-accent: #FB7BA2;
+  --color-accent-lighter: #FB88AB;
+  --color-accent-lightest: #FCAAC3;
+  /* --color-menu-bg: rgba(169, 221, 214, 0.8); */
+  --color-menu-bg: rgba(122, 139, 153, 0.8);
+}
+
+
+/* Typography */
+body, .article {
+  font-family: 'Jaapokki', sans-serif;
+  letter-spacing: 1px;
+  color: var(--color-text);
+}
+h1,h2,h3,h4,h5,.h1,.h2,.h3,.h4,.h5 {
+  font-weight: normal;
+}
+
+main {
+  text-align: center;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: none;
+}
+
+/* Mobile typography */
+/* Gridlover: font=14px,line=2,scale=1.333 */
+html, .root {
+  font-size: 14px;
+  line-height: 35px;
+}
+body, .article {
+  font-size: 1rem;
+  line-height: 2.5rem;
+}
+h1, .h1 {
+  font-size: 2.3571429rem;
+  line-height: 2.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 5rem;
+}
+h2, .h2 {
+  font-size: 1.7857143rem;
+  line-height: 2.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+h3, .h3 {
+  font-size: 1.3571429rem;
+  line-height: 2.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0rem;
+}
+h4, .h4 {
+  font-size: 1rem;
+  line-height: 2.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0rem;
+}
+h5, .h5 {
+  font-size: 1rem;
+  line-height: 2.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0rem;
+}
+p, ul, ol, pre, table, blockquote {
+  margin-top: 0rem;
+  margin-bottom: 2.5rem;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+/* Let's make sure all's aligned */
+hr, .hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+a, b, i, strong, em, small, code {
+  line-height: 0;
+}
+sub, sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+
+/* Tablet & desktop typography */
+/* Gridlover: font=30px,line=1.75,scale=1.5 */
+@media (min-width: {{ .Site.Params.mobileBreakpointPx }}px) {
+  html, .root {
+    font-size: 30px;
+    line-height: 53px;
+  }
+
+  body, .article {
+    font-size: 1rem;
+    line-height: 1.7666667rem;
+  }
+
+  h1, .h1 {
+    font-size: 3.3666667rem;
+    line-height: 3.5333333rem;
+    margin-top: 1.7666667rem;
+    margin-bottom: 3.5333334rem;
+  }
+  h2, .h2 {
+    font-size: 2.2666667rem;
+    line-height: 3.5333333rem;
+    margin-top: 1.7666667rem;
+    margin-bottom: 1.7666667rem;
+  }
+  h3, .h3 {
+    font-size: 1.5rem;
+    line-height: 3.5333333rem; /* of h2 */
+    margin-top: 1.7666667rem; /* of h2 */
+    margin-bottom: 1.7666667rem; /* of h2 */
+  }
+  h4, .h4 {
+    font-size: 1rem;
+    line-height: 1.7666667rem;
+    margin-top: 1.7666667rem;
+    margin-bottom: 0rem;
+  }
+  h5, .h5 {
+    font-size: 1rem;
+    line-height: 1.7666667rem;
+    margin-top: 1.7666667rem;
+    margin-bottom: 0rem;
+  }
+  p, ul, ol, pre, table, blockquote {
+    margin-top: 0rem;
+    margin-bottom: 1.7666667rem;
+  }
+  ul ul, ol ol, ul ol, ol ul {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+  }
+
+  hr, .hr {
+    border: 1px solid;
+    margin: -1px 0;
+  }
+  a, b, i, strong, em, small, code {
+    line-height: 0;
+  }
+  sub, sup {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+  sup {
+    top: -0.5em;
+  }
+  sub {
+    bottom: -0.25em;
+  }
+}
+
+
+/* Layout */
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0.5rem;
+}
+
+main > *:first-of-type {
+  margin-top: 0;
+}
+
+/* Fun */
+html {
+  background: var(--color-accent);
+}
+
+body {
+  background: white;
+}
+
+::selection {
+  background: var(--color-accent-lightest);
+}
+
+/* Utils */
+.text-doslownie {
+  font-family: 'Sacramento', serif;
+  font-weight: normal;
+  color: var(--color-accent);
+}
+
+.text-handwritten {
+  font-family: 'Sacramento', serif;
+  font-weight: normal;
+  color: var(--color-accent-lightest);
+}
+
+.text-accent {
+  color: var(--color-accent);
+}
+
+.text-dots {
+  color: var(--color-accent);
+}
+
+.mobile-hide {
+  display: none;
+}
+
+.mobile-show {
+  display: initial;
+}
+
+@media(min-width: {{ .Site.Params.mobileBreakpointPx }}px) {
+  .mobile-hide {
+    display: initial;
+  }
+
+  .mobile-show {
+    display: none;
+  }
+}
+</style>

@@ -1,0 +1,228 @@
+<div class="nav-mobile">
+    <div class="nav-mobile-header">
+        {{ partial "nav_mobile_header.html" . }}
+    </div>
+    <div class="nav-mobile-nav" role="navigation">
+        <button class="hamburger" aria-label="Menu">
+            <span class="hamburger__container" tabindex="-1">
+                <span class="hamburger__bars"></span>
+            </span>
+        </button>
+        <nav class="nav-box" role="navigation">
+            {{ $current := . }}
+            <ul id="patterns-list">
+                {{ range .Site.Menus.nav }}
+                <li class="pattern h3">
+                    {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+                    {{ $active = or $active (eq .Name $current.Title) }}
+                    {{ $active = or $active (and (eq .Name "Blog") (eq $current.Section "post")) }}
+                    {{ $active = or $active (and (eq .Name "Tags") (eq $current.Section "tags")) }}
+                    <a href="{{ .URL }}" {{ if $active }}aria-current="page" {{ end }}>
+                        <span class="text">{{ .Name }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </nav>
+        <div class="menu-close-overlay"></div>
+    </div>
+</div>
+<div class="nav-mobile-sticky-spacer"></div>
+
+<style>
+/* Source: https://blog.robertorlinski.pl/2018/09/25/hamburger-menu/ */
+.nav-mobile {
+    z-index: 2;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    background: white;
+}
+
+@media(min-width: {{ .Site.Params.mobileBreakpointPx }}px) {
+  .nav-mobile {
+    display: none;
+  }
+}
+
+.nav-mobile-nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav-mobile-nav .hamburger {
+	 margin: 0;
+	 padding: 0;
+	 border: 0;
+     padding-left: 1rem;
+	 background-color: transparent;
+	 cursor: pointer;
+}
+.nav-mobile-nav .hamburger:focus > .hamburger__container {
+	 box-shadow: 0 0 2px 2px #51a7e8;
+}
+.nav-mobile-nav .hamburger__container {
+	 display: flex;
+	 align-items: center;
+	 position: relative;
+	 width: 35px;
+	 height: 30px;
+}
+.nav-mobile-nav .hamburger__bars {
+	 position: absolute;
+	 width: 35px;
+	 height: 5px;
+	 background-color: var(--color-accent);
+	 transition: transform 220ms ease-in-out;
+}
+.nav-mobile-nav .hamburger__bars:before, .hamburger__bars:after {
+	 display: block;
+	 position: absolute;
+	 width: 35px;
+	 height: 5px;
+	 background-color: var(--color-accent);
+	 content: '';
+}
+.nav-mobile-nav .hamburger__bars:before {
+	 top: -12px;
+	 transition: top 100ms 250ms ease-in, transform 220ms ease-in-out;
+}
+.nav-mobile-nav .hamburger__bars:after {
+	 bottom: -12px;
+	 transition: bottom 100ms 250ms ease-in, transform 220ms ease-in-out;
+}
+.nav-mobile-nav .hamburger--active .hamburger__bars {
+	 transform: rotate(225deg);
+	 transition: transform 220ms 120ms ease-in-out;
+}
+.nav-mobile-nav .hamburger--active .hamburger__bars:before {
+	 top: 0;
+	 transition: top 100ms ease-out;
+}
+.nav-mobile-nav .hamburger--active .hamburger__bars:after {
+	 bottom: 0;
+	 transform: rotate(-90deg);
+	 transition: bottom 100ms ease-out, transform 220ms 120ms ease-in-out;
+}
+.nav-mobile-nav .hamburger:focus, .hamburger__container:focus {
+	 outline: none;
+}
+ 
+.nav-mobile-nav .nav-box {
+    z-index: 3;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 30%;
+    background: var(--color-menu-bg);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    color: white;
+    box-shadow: 2px 0 25px 5px rgba(0, 0, 0, 0.5);
+
+    transition: -webkit-transform .3s ease;
+    transition: transform .3s ease;
+    -webkit-transform: translateX(-130%);
+    -ms-transform: translateX(-130%);
+    transform: translateX(-130%);
+}
+
+.nav-mobile-nav .nav-box.open {
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+}
+
+.nav-mobile-nav .menu-close-overlay {
+    display: none;
+    z-index: 3;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 70%;
+}
+
+.nav-mobile-nav .menu-close-overlay.open {
+    display: block;
+}
+
+.nav-mobile-nav .nav-box ul {
+    margin: 0;
+    padding: 0;
+    padding-top: 2rem;
+}
+
+.nav-mobile-nav .nav-box ul li {
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
+}
+
+.nav-mobile-nav .nav-box ul li a {
+    color: white;
+    text-decoration: none;
+    text-shadow: 3px 2px rgba(0,0,0,0.4);
+    text-transform: uppercase;
+}
+
+.nav-mobile.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0 2rem;
+  box-shadow: 0 0px 7px 5px rgba(0,0,0,0.2);
+}
+
+.nav-mobile.sticky + .nav-mobile-sticky-spacer {
+    display: block;
+}
+</style>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', (event) => {
+    const menu = document.querySelector('.nav-mobile-nav .hamburger');
+    const navBox = document.querySelector('.nav-mobile-nav .nav-box');
+    const closeOverlay = document.querySelector('.nav-mobile-nav .menu-close-overlay');
+    const navMobile = document.querySelector('.nav-mobile');
+    const navMobileStickySpacer = document.querySelector('.nav-mobile-sticky-spacer');
+
+    menu.addEventListener('click', () => {
+        menu.classList.toggle('hamburger--active');
+        navBox.classList.toggle('open');
+        closeOverlay.classList.toggle('open');
+    });
+
+    closeOverlay.addEventListener('click', () => {
+        menu.classList.toggle('hamburger--active');
+        navBox.classList.toggle('open');
+        closeOverlay.classList.toggle('open');
+    });
+
+    window.onscroll = function () { handleStickyNav() };
+    const stickyOffset = navMobile.offsetTop;
+    const stickyHeight = navMobile.offsetHeight;
+
+    // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+    function handleStickyNav() {
+        if (window.pageYOffset > stickyOffset) {
+            stickyNavOn();
+        } else {
+            stickyNavOff();
+        }
+    }
+
+    function stickyNavOn() {
+        navMobile.classList.add('sticky');
+        navMobileStickySpacer.style.height = stickyHeight + 'px';
+    }
+
+    function stickyNavOff() {
+        navMobile.classList.remove('sticky');
+        navMobileStickySpacer.style.height = '0px';
+    }
+});
+</script>
