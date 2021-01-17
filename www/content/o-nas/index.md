@@ -13,3 +13,5 @@ Dominika jest absolwentką prawa i najbardziej ambitną osobą jaką znam. Potra
 <br>
 
 Są na świecie osoby mające wyjątkową łatwość w nawiązywaniu kontaktów oraz przyciąganiu innych ludzi do siebie i do swoich inicjatyw. Taką osoba jest Olga. Olga na każdym kroku uczy mnie, że Bóg nas bardzo kocha i że pragnie spełnić wszystkie nasze marzenia. Olga zajmuje się w swoim życiu wieloma wartościowymi rzeczami - nie tylko pracą, działalnością w Stowarzyszeniu i naszą wspólną twórczością - zawsze potrafi też znaleźć chwilę dla drugiego człowieka, okazując mu przy tym maksimum ciepła i uwagi.
+
+Dominika i Olga. 
