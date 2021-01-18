@@ -28,8 +28,8 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <span class="h1 text-dots">•••</span>
 </p>
 <p style="display: inline">
-<img alt= "Dominika i Ola" hight="30%" src="IMG_7015.png"/>
-<img alt= "Dominika i Ola" hight="30%" src="IMG_7226.png"/>
+<img alt= "Dominika i Ola" width="30%" src="IMG_7015.png"/>
+<img alt= "Dominika i Ola" width="30%" src="IMG_7226.png"/>
 </p>
 <p>
 Poza twórczością, łączy nas także zamiłowanie do <span class="text-accent">podróży</span> i dobrego jedzenia, a zwłaszcza <span class="text-accent">lodów</span>.
