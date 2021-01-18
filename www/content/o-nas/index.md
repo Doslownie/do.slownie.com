@@ -42,7 +42,7 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <br>
 </p>
 <p>
-<a class="text-handwritten" class="h2" href="https://do.slownie.com/kontakt/">napisz do nas. </h2>
+<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas. </h2>
 </p>
 <p>
 <span class="h1 text-dots">•••</span>
