@@ -24,18 +24,26 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <br><br><span class="text-accent">~Dominika</span>
 </p>
 <span class="h1 text-dots">•••</span>
+<p>
 <img src="IMG_7015.png"/>
 <img src="IMG_7226.png"/>
+</p>
 <p>
 Poza twórczością, łączy nas także zamiłowanie do <span class="text-accent">podróży</span> i dobrego jedzenia, a zwłaszcza <span class="text-accent">lodów</span>.
 </p>
+<p>
 <img alt="Dominika i Olga"src="IMG_6754.png">
+</p>
+<p>
 <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
+</p>
 <p>
 Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chcesz podjąć z nami <span class="text-accent">współpracę</span>, albo podzielić się tym, jak Ciebie inspiruje <span class="text-accent">Słowo<span>,
 <br>
 </p>
 <p>
-<h2 class="text-handwritten" href="https://do.slownie.com/kontakt/">Jesteśmy Dominika i Olga. </h2>
+<a class="text-handwritten" class="h2" href="https://do.slownie.com/kontakt/">napisz do nas. </h2>
 </p>
+<p>
 <span class="h1 text-dots">•••</span>
+</p>
