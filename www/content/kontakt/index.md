@@ -11,8 +11,7 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 </p>
 <p>
 Dane kontaktowe
-</p>
-<p>
+<br>
 <span class="text-accent">instagram.com</span>/do.slownie 
 <br><span class="text-accent">do.slownie.kontakt</span>@gmail.com
 </p>
