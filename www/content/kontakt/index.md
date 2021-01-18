@@ -10,7 +10,7 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
 </p>
 <p>
-Dane kontaktowe
+Dane kontaktowe:
 <br>
 <span class="text-accent">instagram.com</span>/do.slownie 
 <br><span class="text-accent">do.slownie.kontakt</span>@gmail.com
