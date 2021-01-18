@@ -3,7 +3,7 @@
 # O nas
 
 <h2 class="text-handwritten">Jesteśmy Dominika i Olga. </h2>
-<img alt= "Dominika i Ola" width="50%" src="IMG_6761.png"/>
+<img alt= "Dominika i Ola" width="60%" src="IMG_6761.png"/>
 <p>
 <br>
 Połączyła nas działalność w <span class="text-accent">ASK Soli Deo. </span>
@@ -35,7 +35,7 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 Poza twórczością, łączy nas także zamiłowanie do <span class="text-accent">podróży</span> i dobrego jedzenia, a zwłaszcza <span class="text-accent">lodów</span>.
 </p>
 <p>
-<img width="50%" alt="Dominika i Olga"src="IMG_6754.png">
+<img width="60%" alt="Dominika i Olga"src="IMG_6754.png">
 </p>
 <p>
 <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
