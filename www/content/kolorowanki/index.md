@@ -8,7 +8,7 @@ jest dla <span class="text-accent">każdego</span>.
 <p>
 Dlatego przygotowałyśmy dla Ciebie
 <br>
-<h2 class="text-handwritten">kolorowanki </h2>.
+<h2 class="text-handwritten">kolorowanki. </h2>
 </p>
 <p>
 Pakiet zawiera <span class="text-accent">10 kolorowanek</span> inspirowanych Słowem.
