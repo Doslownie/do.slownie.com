@@ -12,7 +12,8 @@ Połączyła nas działalność w <span class="text-accent">ASK Soli Deo. </span
 <p>
 <span class="text-accent">Dominika</span> jest absolwentką prawa i najbardziej ambitną osobą jaką znam. Potrafi wszystkiego się nauczyć i zdecydowanie nie ma dla niej rzeczy niemożliwych - są tylko takie, które wymagają więcej czasu i zaangażowania niż inne. 
 <br>
-Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpracować i tworzyć totalnie wszystko co tylko potrafimy sobie wyobrazić - czyli spełniać marzenia! A wszystko zaczęło się od tego jak zaimponowała mi zjedzeniem całej porcji churrosów w Sztokholmie, tak można zdobyć moją przyjaźń i zaufanie.
+Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpracować i tworzyć totalnie wszystko co tylko potrafimy sobie wyobrazić - czyli spełniać marzenia! 
+<br>A wszystko zaczęło się od tego jak zaimponowała mi zjedzeniem całej porcji churrosów w Sztokholmie, tak można zdobyć moją przyjaźń i zaufanie.
 <br><br>
 <span class="text-accent">~Olga</span>
 </p>
@@ -42,7 +43,7 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <br>
 </p>
 <p>
-<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas. </h2>
+<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas.</a>
 </p>
 <p>
 <span class="h1 text-dots">•••</span>
