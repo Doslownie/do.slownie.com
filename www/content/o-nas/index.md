@@ -25,7 +25,7 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <br><br><span class="text-accent">~Dominika</span>
 </p>
 <span class="h1 text-dots">•••</span>
-<p>
+<p style="display: inline">
 <img src="IMG_7015.png"/>
 <img src="IMG_7226.png"/>
 </p>
