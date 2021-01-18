@@ -36,6 +36,6 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <br>
 </p>
 <p>
-<a class="text-handwritten" href="https://do.slownie.com/kontakt/">napisz do nas!</a>
+<a h2 class="text-handwritten" href="https://do.slownie.com/kontakt/">napisz do nas!</a>
 </p>
 <span class="h1 text-dots">•••</span>
