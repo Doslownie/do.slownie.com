@@ -4,10 +4,7 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <br>
 </p>
 <p>
-<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas.</a>
-</p>
-<p>
-<span class="h2 text-dots">•••</span>
+<h2">napisz do nas.</a>
 </p>
 <p>
 <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
