@@ -13,7 +13,7 @@ Połączyła nas działalność w <span class="text-accent">ASK Soli Deo. </span
 <span class="text-accent">Dominika</span> jest absolwentką prawa i najbardziej ambitną osobą jaką znam. Potrafi wszystkiego się nauczyć i zdecydowanie nie ma dla niej rzeczy niemożliwych - są tylko takie, które wymagają więcej czasu i zaangażowania niż inne. 
 <br>
 Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpracować i tworzyć totalnie wszystko co tylko potrafimy sobie wyobrazić - czyli spełniać marzenia! A wszystko zaczęło się od tego jak zaimponowała mi zjedzeniem całej porcji churrosów w Sztokholmie, tak można zdobyć moją przyjaźń i zaufanie.
-<br>
+<br><br>
 <span class="text-accent">~Olga</span>
 </p>
 <span class="h1 text-dots">•••</span>
@@ -21,7 +21,7 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <br>
 <span class="text-accent">Olga</span> na każdym kroku uczy mnie, że Bóg nas bardzo kocha i że pragnie spełnić wszystkie nasze marzenia. <br>
 <span class="text-accent">Olga </span>zajmuje się w swoim życiu wieloma wartościowymi rzeczami - nie tylko pracą, działalnością w Stowarzyszeniu i naszą wspólną twórczością - zawsze potrafi też znaleźć chwilę dla drugiego człowieka, okazując mu przy tym maksimum ciepła i uwagi.
-<br> <span class="text-accent">~Dominika</span>
+<br><br><span class="text-accent">~Dominika</span>
 </p>
 <span class="h1 text-dots">•••</span>
 <img src="IMG_7015.png"/>
@@ -33,4 +33,7 @@ Poza twórczością, łączy nas także zamiłowanie do <span class="text-accent
 <p>
 Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chcesz podjąć z nami <span class="text-accent">współpracę</span>, albo podzielić się tym, jak Ciebie inspiruje <span class="text-accent">Słowo<span>,
 <br>
-<h2 class="text-handwritten">Napisz do nas</span>
+</p>
+<p>
+{{< handwritten 2 >}}napisz do nas!{{< /handwritten >}}
+</p>
