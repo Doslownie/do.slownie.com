@@ -24,10 +24,12 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <span class="text-accent">Olga </span>zajmuje się w swoim życiu wieloma wartościowymi rzeczami - nie tylko pracą, działalnością w Stowarzyszeniu i naszą wspólną twórczością - zawsze potrafi też znaleźć chwilę dla drugiego człowieka, okazując mu przy tym maksimum ciepła i uwagi.
 <br><br><span class="text-accent">~Dominika</span>
 </p>
+<p>
 <span class="h1 text-dots">•••</span>
+</p>
 <p style="display: inline">
-<img width="20%" src="IMG_7015.png"/>
-<img width="20%" src="IMG_7226.png"/>
+<img width="40%" src="IMG_7015.png"/>
+<img width="40%" src="IMG_7226.png"/>
 </p>
 <p>
 Poza twórczością, łączy nas także zamiłowanie do <span class="text-accent">podróży</span> i dobrego jedzenia, a zwłaszcza <span class="text-accent">lodów</span>.
