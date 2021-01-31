@@ -2,7 +2,7 @@
 ---
 <span class="mobile-hide">
 
-  ## {{< h 4 >}}Piszemy Pięknie o Bogu, Wierze i Kościele.{{< /h >}}
+  ## {{< h 3 >}}Piszemy Pięknie o Bogu, Wierze i Kościele.{{< /h >}}
  <h2 class="text-handwritten">Dosłownie</h2>
   {{% dots 3 %}}
 </span>
@@ -35,7 +35,7 @@ Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a 
 
 <p>
 {{< h 4 >}}
-Jeżeli jesteś tu {{< pink >}}nowy{{< /pink >}}, zajrzyj na nasz profil <a href="https://instagram/">na Instagramie</a>.
+Jeżeli jesteś tu {{< pink >}}nowy{{< /pink >}}, zajrzyj na nasz profil <a href="https://instagram.com/do.slownie">na Instagramie</a>.
 {{< /h >}}
 </p>
 
@@ -63,7 +63,7 @@ Jeżeli {{< pink >}}podoba Ci się{{< /pink >}} nasza twórczość i chcesz podj
 {{< /h >}}
 </p>
 <p>
-{{< handwritten 2 >}}napisz do nas!{{< /handwritten >}}
+<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas.</a>
 </p>
 
 
