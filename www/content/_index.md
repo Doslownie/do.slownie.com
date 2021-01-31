@@ -22,7 +22,7 @@ Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jeste
 
 <p>
 {{< h 4 >}}
-Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a my za pomocą słów {{< pink >}}tworzymy{{< pink >}} dla Ciebie {{< /pink >}}coś pięknego{{< /pink >}}.
+Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a my za pomocą słów {{< pink >}}tworzymy {{< pink >}} dla Ciebie {{< /pink >}}coś  pięknego{{< /pink >}}.
 {{< /h >}}
 </p>
 
