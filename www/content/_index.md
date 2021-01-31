@@ -3,7 +3,7 @@
 <span class="mobile-hide">
 
   ## {{< h 4 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
-  ## {{% doslownie 2 %}}
+
   {{% dots 3 %}}
 </span>
 
