@@ -6,7 +6,7 @@
 <img alt= "Dominika i Ola" width="60%" src="IMG_6761.png"/>
 <p>
 <br>
-Połączyła nas działalność w <span class="text-accent">ASK Soli Deo. </span>
+Połączyła nas działalność w <a href="https://instagram.com/do.slownie" span class="text-accent">ASK Soli Deo. </a>
 </p>
 <span class="h3 text-dots">•••</span>
 <p>
