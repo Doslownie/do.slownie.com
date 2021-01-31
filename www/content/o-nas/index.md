@@ -8,7 +8,7 @@
 <br>
 Połączyła nas działalność w <span class="text-accent">ASK Soli Deo. </span>
 </p>
-<span class="h2 text-dots">•••</span>
+<span class="h3 text-dots">•••</span>
 <p>
 <span class="text-accent">Dominika</span> jest absolwentką prawa i najbardziej ambitną osobą jaką znam. Potrafi wszystkiego się nauczyć i zdecydowanie nie ma dla niej rzeczy niemożliwych - są tylko takie, które wymagają więcej czasu i zaangażowania niż inne. 
 <br><br>
@@ -17,7 +17,7 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <br><br>
 <span class="text-accent">~Olga</span>
 </p>
-<span class="h2 text-dots">•••</span>
+<span class="h3 text-dots">•••</span>
 <p>Są na świecie osoby mające wyjątkową łatwość w nawiązywaniu kontaktów oraz przyciąganiu innych ludzi do siebie i do swoich inicjatyw. Taką osoba jest Olga. 
 <br><br>
 <span class="text-accent">Olga</span> na każdym kroku uczy mnie, że Bóg nas bardzo kocha i że pragnie spełnić wszystkie nasze marzenia. <br><br>
@@ -25,7 +25,7 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <br><br><span class="text-accent">~Dominika</span>
 </p>
 <p>
-<span class="h2 text-dots">•••</span>
+<span class="h3 text-dots">•••</span>
 </p>
 <p style="display: inline">
 <img alt= "Dominika i Ola" width="40%" src="IMG_7015.png"/>
@@ -38,7 +38,7 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <img width="60%" alt="Dominika i Olga"src="IMG_6754.png">
 </p>
 <p>
-<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
+<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1.5rem;" />
 </p>
 <p>
 Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chcesz podjąć z nami <span class="text-accent">współpracę</span>, albo podzielić się tym, jak Ciebie inspiruje <span class="text-accent">Słowo<span>,
@@ -48,5 +48,5 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas.</a>
 </p>
 <p>
-<span class="h2 text-dots">•••</span>
+<span class="h3 text-dots">•••</span>
 </p>
