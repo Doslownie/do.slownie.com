@@ -14,11 +14,11 @@ Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jeste
 
  </p>
 
-<p>{{% doslownie 3 "." %}}</p>
+<p>{{% doslownie 2 "." %}}</p>
 {{% dots 3 %}}
 
 
-## {{< h 4 >}}Dlaczego {{% doslownie 3 "?" %}}{{< /h >}}
+## {{< h 4 >}}Dlaczego {{% doslownie 2 "?" %}}{{< /h >}}
 
 <p>
 {{< h 4 >}}
@@ -31,7 +31,7 @@ Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a 
 ### {{< h 4 >}}{{< pink >}}Rozgość się{{< /pink >}} i czuj się u nas jak w domu.{{< /h >}}
 
 
-<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 1rem;" />
+<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 1.5rem;" />
 
 <p>
 {{< h 4 >}}
@@ -55,7 +55,7 @@ Jeżeli chcesz poczuć przypływ {{< pink >}}kreatywności{{< /pink >}}, zobacz 
 {{< /h >}}
 </p>
 
-<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1rem;" />
+<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1.5rem;" />
 
 <p>
 {{< h 4 >}}
@@ -63,7 +63,7 @@ Jeżeli {{< pink >}}podoba Ci się{{< /pink >}} nasza twórczość i chcesz podj
 {{< /h >}}
 </p>
 <p>
-{{< handwritten 2 >}}napisz do nas!{{< /handwritten >}}
+{{< handwritten 3 >}}napisz do nas!{{< /handwritten >}}
 </p>
 
 
