@@ -4,7 +4,7 @@ Jesteśmy przykładem na to, że tworzenie <span class="text-accent">pięknych</
 jest dla <span class="text-accent">każdego</span>.
 </p>
 <p>
-<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 2rem;" />
+<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 1.5rem;" />
 <p>
 Dlatego przygotowałyśmy dla Ciebie
 <br>
