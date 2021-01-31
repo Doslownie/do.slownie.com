@@ -2,8 +2,8 @@
 ---
 <span class="mobile-hide">
 
-  ## {{< h 3 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
-<h2 class="text-handwritten">Dosłownie</h<>>
+  ## {{< h 4 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
+  ## {{% doslownie 3 %}}
   {{% dots 3 %}}
 </span>
 
@@ -19,7 +19,7 @@ Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jeste
 
 {{% break %}}
 
-## {{< h 4 >}}Dlaczego {{% doslownie 1 "?" %}}{{< /h >}}
+## {{< h 4 >}}Dlaczego {{% doslownie 3 "?" %}}{{< /h >}}
 
 <p>
 {{< h 4 >}}
@@ -33,7 +33,7 @@ Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a 
 
 {{% break %}}
 
-<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 5rem;" />
+<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 3rem;" />
 
 <p>
 {{< h 4 >}}
@@ -57,7 +57,7 @@ Jeżeli chcesz poczuć przypływ {{< pink >}}kreatywności{{< /pink >}}, zobacz 
 {{< /h >}}
 </p>
 
-<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 5rem;" />
+<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 3rem;" />
 
 <p>
 {{< h 4 >}}
