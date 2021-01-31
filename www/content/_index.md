@@ -2,7 +2,7 @@
 ---
 <span class="mobile-hide">
 
-  ## {{< h 1 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
+  ## {{< h 5 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
   ## {{% doslownie 1 %}}
   {{% dots 1 %}}
 
