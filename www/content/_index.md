@@ -2,17 +2,17 @@
 ---
 <span class="mobile-hide">
 
-  ## {{< h 3 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
+  ## {{< h 2 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
   ## {{% doslownie 1 %}}
   {{% dots 1 %}}
 
 </span>
 
 <p>
-{{< h 3 >}}
+
 Głęboko wierzymy, że człowiek najpełniej {{< pink >}}rozkwita{{< /pink >}}, kiedy na co dzień żyje {{< pink >}}Dobrą Nowiną{{< /pink >}}.<br />
 Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jesteśmy Dominika i Olga. Naszą misją jest pisanie pięknie o {{< pink >}}Bogu{{< /pink >}}, {{< pink >}}wierze{{< /pink >}} i {{< pink >}}Kościele{{< /pink >}}. 
-{{< /h >}}
+
  </p>
 
 <p>{{% doslownie 1 "." %}}</p>
