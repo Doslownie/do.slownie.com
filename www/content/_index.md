@@ -3,7 +3,9 @@
 <span class="mobile-hide">
 
   ## {{< h 4 >}}Piszemy Pięknie o Bogu, Wierze i Kościele{{< /h >}}
-<h2>Dosłownie</h>
+  ## {{% doslownie 2 %}}
+  {{% dots 3 %}}
+</span>
 
 <p>
 
@@ -15,7 +17,6 @@ Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jeste
 <p>{{% doslownie 3 "." %}}</p>
 {{% dots 3 %}}
 
-{{% break %}}
 
 ## {{< h 4 >}}Dlaczego {{% doslownie 3 "?" %}}{{< /h >}}
 
@@ -25,13 +26,12 @@ Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a 
 {{< /h >}}
 </p>
 
-{{% break %}}
+
 
 ### {{< h 4 >}}{{< pink >}}Rozgość się{{< /pink >}} i czuj się u nas jak w domu.{{< /h >}}
 
-{{% break %}}
 
-<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 3rem;" />
+<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 1rem;" />
 
 <p>
 {{< h 4 >}}
@@ -39,7 +39,7 @@ Jeżeli jesteś tu {{< pink >}}nowy{{< /pink >}}, zajrzyj na nasz profil <a href
 {{< /h >}}
 </p>
 
-{{% dots 3 %}}
+
 
 <p>
 {{< h 4 >}}
@@ -47,7 +47,7 @@ Jeżeli chcesz poczuć przypływ {{< pink >}}kreatywności{{< /pink >}}, zobacz 
 {{< /h >}}
 </p>
 
-{{% dots 3 %}}
+
 
 <p>
 {{< h 4 >}}
@@ -55,7 +55,7 @@ Jeżeli chcesz poczuć przypływ {{< pink >}}kreatywności{{< /pink >}}, zobacz 
 {{< /h >}}
 </p>
 
-<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 3rem;" />
+<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1rem;" />
 
 <p>
 {{< h 4 >}}
@@ -66,5 +66,4 @@ Jeżeli {{< pink >}}podoba Ci się{{< /pink >}} nasza twórczość i chcesz podj
 {{< handwritten 2 >}}napisz do nas!{{< /handwritten >}}
 </p>
 
-{{% dots 3 %}}
 
