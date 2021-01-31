@@ -4,7 +4,7 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <br>
 </p>
 <p>
-<h3 class="text-handwritten">napisz do nas</h2>
+<h2 class="text-handwritten">napisz do nas</h2>
 </p>
 <p>
 <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1.5rem;" />
