@@ -1,6 +1,7 @@
 ---
 ---
-# O nas
+# 
+<h3>O nas</h3>
 
 <h2 class="text-handwritten">Jesteśmy Dominika i Olga. </h2>
 <img alt= "Dominika i Ola" width="60%" src="IMG_6761.png"/>
