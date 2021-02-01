@@ -13,7 +13,7 @@ Głęboko wierzymy, że człowiek najpełniej {{< pink >}}rozkwita{{< /pink >}}
 Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jesteśmy Dominika i Olga. Naszą misją jest pisanie pięknie o {{< pink >}}Bogu{{< /pink >}}, {{< pink >}}wierze{{< /pink >}} i {{< pink >}}Kościele{{< /pink >}}. 
 <br>
 
-  <h2 class="pink-headline">Dosłownie.</h2>
+  <h2 class="pink-headline2">Dosłownie.</h2>
  </p>
 
 {{% dots 3 %}}
