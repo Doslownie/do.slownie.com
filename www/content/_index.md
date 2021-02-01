@@ -2,8 +2,8 @@
 ---
 <span class="mobile-hide">
 
-{{< h 4 >}}Piszemy pięknie o Bogu, wierze i Kościele.{{< /h>}}
-<h2 class="pink-headline">Dosłownie.</21>
+{{< h 3 >}}Piszemy pięknie o Bogu, wierze i Kościele.{{< /h>}}
+<h2 class="pink-headline">Dosłownie.</h2>
   {{% dots 3 %}}
 </span>
 
