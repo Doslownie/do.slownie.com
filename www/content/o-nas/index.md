@@ -1,4 +1,4 @@
-<h3>O nas</h>
+<h3>O nas</h3>
 
  <h2 class="pink-headline">Jesteśmy Dominika i Olga.</h2>
 <img alt= "Dominika i Ola" width="60%" src="IMG_6761.png"/>
