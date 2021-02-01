@@ -2,7 +2,7 @@
 ---
 <span class="mobile-hide">
 
-  ## {{< h 3 >}}Piszemy Pięknie o Bogu, Wierze i Kościele.{{< /h >}}
+<h2 class="h3">Piszemy pięknie o Bogu, wierze i Kościele.</h2>.
  <h2 class="text-handwritten">Dosłownie</h2>
   {{% dots 3 %}}
 </span>
