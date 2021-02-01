@@ -44,6 +44,4 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <p>
 <a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas!</a>
 </p>
-<p>
-<span class="h3 text-dots">•••</span>
-</p>
+
