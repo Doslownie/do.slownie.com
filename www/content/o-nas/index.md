@@ -1,4 +1,4 @@
-  ## {{< h 3 >}}Piszemy Pięknie o Bogu, Wierze i Kościele.{{< /h >}}
+## {{< h 3 >}}O nas{{< /h>}}
 
 <h2 class="text-handwritten">Jesteśmy Dominika i Olga. </h2>
 <img alt= "Dominika i Ola" width="60%" src="IMG_6761.png"/>
