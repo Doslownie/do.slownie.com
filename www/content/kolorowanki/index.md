@@ -1,4 +1,4 @@
-## {{< h 3 >}}Kolorowanki{{< /h3 >}}
+## {{< h 3 >}}Kolorowanki{{< /h>}}
 <p>
 Jesteśmy przykładem na to, że tworzenie <span class="text-accent">pięknych</span> rzeczy dostępne 
 jest dla <span class="text-accent">każdego</span>.
