@@ -16,7 +16,7 @@ Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jeste
 
 <p>{{% doslownie 2 "." %}}</p>
 {{% dots 3 %}}
-<br>
+
 
 ## {{< h 4 >}}Dlaczego {{% doslownie 2 "?" %}}{{< /h >}}
 
