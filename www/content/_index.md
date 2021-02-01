@@ -16,10 +16,10 @@ Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jeste
 
 <p>{{% doslownie 2 "." %}}
  </p>
- <p>
+
 {{% dots 3 %}}
  
-</p>
+
 
 ## {{< h 4 >}}Dlaczego {{% doslownie 2 "?" %}}{{< /h >}}
 
