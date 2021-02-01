@@ -31,7 +31,7 @@ Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a 
 ### {{< h 4 >}}{{< pink >}}Rozgość się{{< /pink >}} i czuj się u nas jak w domu.{{< /h >}}
 
 
-<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 1.5rem;" />
+<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 1rem;" />
 
 <p>
 {{< h 4 >}}
