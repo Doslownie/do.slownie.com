@@ -12,14 +12,14 @@ Połączyła nas działalność w <a href="https://www.solideo.pl" span class="t
 Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpracować i tworzyć totalnie wszystko co tylko potrafimy sobie wyobrazić - czyli spełniać marzenia! 
 <br><br>A wszystko zaczęło się od tego jak zaimponowała mi zjedzeniem całej porcji churrosów w Sztokholmie, tak można zdobyć moją przyjaźń i zaufanie.
 <br><br>
-<span class="text-left">~Olga</span>
+<span class="text-right">~Olga</span>
 </p>
 <span class="h3 text-dots">•••</span>
 <p>Są na świecie osoby mające wyjątkową łatwość w nawiązywaniu kontaktów oraz przyciąganiu innych ludzi do siebie i do swoich inicjatyw. Taką osoba jest Olga. 
 <br><br>
 <span class="text-accent">Olga</span> na każdym kroku uczy mnie, że Bóg nas bardzo kocha i że pragnie spełnić wszystkie nasze marzenia. <br><br>
 <span class="text-accent">Olga </span>zajmuje się w swoim życiu wieloma wartościowymi rzeczami - nie tylko pracą, działalnością w Stowarzyszeniu i naszą wspólną twórczością - zawsze potrafi też znaleźć chwilę dla drugiego człowieka, okazując mu przy tym maksimum ciepła i uwagi.
-<br><br><span class="text-left">~Dominika</span>
+<br><br><span class="text-right">~Dominika</span>
 </p>
 <p>
 <span class="h3 text-dots">•••</span>
