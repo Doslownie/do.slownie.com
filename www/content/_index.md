@@ -65,7 +65,7 @@ Jeżeli {{< pink >}}podoba Ci się{{< /pink >}} nasza twórczość i chcesz podj
 {{< /h >}}
 </p>
 <p>
-<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas.</a>
+<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas!</a>
 </p>
 
 
