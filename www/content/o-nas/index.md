@@ -1,6 +1,6 @@
 ## {{< h 3 >}}O nas{{< /h>}}
 
-<h2 class="text-handwritten">Jesteśmy Dominika i Olga. </h2>
+<h2 class="pink-headline">Jesteśmy Dominika i Olga. </h2>
 <img alt= "Dominika i Ola" width="60%" src="IMG_6761.png"/>
 <p>
 <br>
@@ -13,14 +13,14 @@ Połączyła nas działalność w <a href="https://instagram.com/do.slownie" spa
 Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpracować i tworzyć totalnie wszystko co tylko potrafimy sobie wyobrazić - czyli spełniać marzenia! 
 <br><br>A wszystko zaczęło się od tego jak zaimponowała mi zjedzeniem całej porcji churrosów w Sztokholmie, tak można zdobyć moją przyjaźń i zaufanie.
 <br><br>
-<span class="text-accent">~Olga</span>
+<span class="text-left">~Olga</span>
 </p>
 <span class="h3 text-dots">•••</span>
 <p>Są na świecie osoby mające wyjątkową łatwość w nawiązywaniu kontaktów oraz przyciąganiu innych ludzi do siebie i do swoich inicjatyw. Taką osoba jest Olga. 
 <br><br>
 <span class="text-accent">Olga</span> na każdym kroku uczy mnie, że Bóg nas bardzo kocha i że pragnie spełnić wszystkie nasze marzenia. <br><br>
 <span class="text-accent">Olga </span>zajmuje się w swoim życiu wieloma wartościowymi rzeczami - nie tylko pracą, działalnością w Stowarzyszeniu i naszą wspólną twórczością - zawsze potrafi też znaleźć chwilę dla drugiego człowieka, okazując mu przy tym maksimum ciepła i uwagi.
-<br><br><span class="text-accent">~Dominika</span>
+<br><br><span class="text-left">~Dominika</span>
 </p>
 <p>
 <span class="h3 text-dots">•••</span>
@@ -43,7 +43,7 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <br>
 </p>
 <p>
-<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas.</a>
+<a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas!</a>
 </p>
 <p>
 <span class="h3 text-dots">•••</span>
