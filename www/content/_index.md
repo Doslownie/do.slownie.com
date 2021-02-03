@@ -8,9 +8,8 @@
 </span>
 
 <p>
-
-Głęboko wierzymy, że człowiek najpełniej {{< pink >}}rozkwita{{< /pink >}}, kiedy na co dzień żyje {{< pink >}}Dobrą Nowiną{{< /pink >}}.<br />
-Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jesteśmy Dominika i Olga. Naszą misją jest pisanie pięknie o {{< pink >}}Bogu{{< /pink >}}, {{< pink >}}wierze{{< /pink >}} i {{< pink >}}Kościele{{< /pink >}}. 
+Głęboko wierzymy, że człowiek najpełniej {{< pink >}}rozkwita{{< /pink >}}, kiedy na co dzień żyje {{< pink >}}Dobrą Nowiną {{< /pink >}}. <br />
+  Pragniemy {{< pink >}}dzielić się tym przesłaniem {{< /pink >}} z Tobą. Jesteśmy Dominika i Olga. Naszą misją jest pisanie pięknie o {{< pink >}}Bogu{{< /pink >}}, {{< pink >}}wierze{{< /pink >}} i {{< pink >}}Kościele{{< /pink >}}.
 <br>
 
   <h2 class="pink-headline2">Dosłownie.</h2>
@@ -26,9 +25,7 @@ Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jeste
   </p>
   
 <p>
-
 Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a my za pomocą słów {{< pink >}} tworzymy {{< /pink >}} dla Ciebie {{< pink >}} coś pięknego{{< /pink >}}.
-
 </p>
 
 
