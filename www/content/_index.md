@@ -20,8 +20,11 @@ Pragniemy {{< pink >}}dzielić się tym przesłaniem{{< /pink >}} z Tobą. Jeste
  
 
 
-## {{< h 4 >}}Dlaczego {{% doslownie 2 "?" %}}{{< /h >}}
-
+<p>
+  Dlaczego {{% doslownie 2 "?" %}}
+  
+  </p>
+  
 <p>
 
 Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a my za pomocą słów {{< pink >}} tworzymy {{< /pink >}} dla Ciebie {{< pink >}} coś pięknego{{< /pink >}}.
@@ -29,40 +32,40 @@ Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a 
 </p>
 
 
-
-### {{< h 4 >}}{{< pink >}}Rozgość się{{< /pink >}} i czuj się u nas jak w domu.{{< /h >}}
+<p> 
+  {{< pink >}}Rozgość się{{< /pink >}} i czuj się u nas jak w domu.
+  </p>
 
 
 <img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 1.5rem;" />
 
 <p>
-{{< h 4 >}}
+
 Jeżeli jesteś tu {{< pink >}}nowy{{< /pink >}}, zajrzyj na nasz profil <a href="https://instagram.com/do.slownie">na Instagramie</a>.
-{{< /h >}}
+
 </p>
 
 
 
 <p>
-{{< h 4 >}}
+
 Jeżeli chcesz poczuć przypływ {{< pink >}}kreatywności{{< /pink >}}, zobacz [kolorowanki]({{< ref "/kolorowanki" >}}), które dla Ciebie przygotowałyśmy.
-{{< /h >}}
+
 </p>
 
 
 
 <p>
-{{< h 4 >}}
+
   Jeżeli chcesz lepiej nas {{< pink >}}poznać{{< /pink >}}, zajrzyj do zakładki [O nas]({{< ref "/o-nas" >}}).
-{{< /h >}}
 </p>
 
 <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1.5rem;" />
 
 <p>
-{{< h 4 >}}
+
 Jeżeli {{< pink >}}podoba Ci się{{< /pink >}} nasza twórczość i chcesz podjąć z nami {{< pink >}}współpracę{{< /pink >}}, albo podzielić się tym, jak Ciebie {{< pink >}}inspiruje Słowo{{< /pink >}},
-{{< /h >}}
+
 </p>
 <p>
 <a class="text-handwritten h2" href="https://do.slownie.com/kontakt/">napisz do nas!</a>
