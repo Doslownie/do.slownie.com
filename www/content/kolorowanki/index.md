@@ -17,11 +17,9 @@ Pakiet zawiera <span class="text-accent">10 kolorowanek</span> inspirowanych Sł
 <p>
 Możesz zamówić je poprzez poniższy <span class="text-accent">formularz</span>.
 <br>
-  <form action="mailto:dm.dmeller@gmail.com" method="post" enctype="text/plain">
-
-                           
   
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvkkOF393dD68qW2XvqCUrUDlWLFBNXfLHookPX7j2EjYFkA/viewform?embedded=true" width="640" height="673" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+                          
+<iframe class=form src="https://docs.google.com/forms/d/e/1FAIpQLSdvkkOF393dD68qW2XvqCUrUDlWLFBNXfLHookPX7j2EjYFkA/viewform?embedded=true" width="640" height="673" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
 </p>
 
 <p>
