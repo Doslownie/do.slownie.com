@@ -5,6 +5,7 @@
 {{< h 3 >}}Piszemy pięknie o Bogu, wierze i Kościele.{{< /h>}}
 <h1 class="pink-headline">Dosłownie.</h1>
   {{% dots 3 %}}
+  <br />
 </span>
 
 <p>
