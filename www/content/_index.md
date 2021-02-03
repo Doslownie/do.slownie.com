@@ -24,9 +24,10 @@ Głęboko wierzymy, że człowiek najpełniej {{< pink >}}rozkwita{{< /pink >}},
   
   </p>
   
-<p>
-Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a my za pomocą słów {{< pink >}} tworzymy {{< /pink >}} dla Ciebie {{< pink >}} coś pięknego{{< /pink >}}.
-</p>
+  <p>
+  Bo słowa mają moc, bo {{< pink >}}Słowo stało się ciałem{{< /pink >}}, a my za pomocą słów {{< pink >}} tworzymy {{< /pink >}}dla Ciebie{{< pink >}} coś pięknego {{< /pink >}}.
+  </p>
+
 
 
 <p> 
