@@ -35,7 +35,7 @@ Głęboko wierzymy, że człowiek najpełniej {{< pink >}}rozkwita{{< /pink >}},
   </p>
 
 
-<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 1.5rem;" />
+<img alt="Ikona pędzla" src="/img/brush-icon.svg" style="width: 2rem;" />
 
 <p>
 
@@ -58,7 +58,7 @@ Jeżeli chcesz poczuć przypływ {{< pink >}}kreatywności{{< /pink >}}, zobacz 
   Jeżeli chcesz lepiej nas {{< pink >}}poznać{{< /pink >}}, zajrzyj do zakładki [O nas]({{< ref "/o-nas" >}}).
 </p>
 
-<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1.5rem;" />
+<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
 
 <p>
 
