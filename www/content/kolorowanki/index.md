@@ -15,7 +15,7 @@ Pakiet zawiera <span class="text-accent">10 kolorowanek</span> inspirowanych Sł
 <br> Jego cena to <span class="text-accent">10 złotych</span>.
 </p>
 <p>
-Możesz zamówić je poprzez poniższy <span class="text-accent">formularz</span>.
+Możesz zamówić je poprzez poniższy <span class="text-accent">formularz</span>:
 <br>
   
                           
