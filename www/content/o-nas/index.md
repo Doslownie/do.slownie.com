@@ -27,11 +27,11 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 
 <div class="row">
 <div class="col-lg-6">
-img alt= "Dominika i Ola" width="40%" src="IMG_7015.png"
+<img alt= "Dominika i Ola" src="IMG_7015.png"/>
 </div>
 <div class="row">
 <div class="col-lg-6">
-img alt= "Dominika i Ola" width="40%" src="IMG_7226.png"
+<img alt= "Dominika i Ola" src="IMG_7226.png"/>
 </div>
 
 </div>
