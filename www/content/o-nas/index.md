@@ -1,6 +1,6 @@
  ## {{< h 3 >}}O nas{{< /h>}}
  <h2 class="pink-headline3">Jesteśmy Dominika i Olga.</h2>
-<img alt= "Dominika i Ola" width="60%" src="IMG_6761.png"/>
+<img alt= "Dominika i Ola" width="80%" src="IMG_6761.png"/>
 <p>
 <br>
 Połączyła nas działalność w <a href="https://www.solideo.pl" span class="text-accent">ASK Soli Deo. </a>
@@ -24,15 +24,26 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <p>
 <span class="h3 text-dots">•••</span>
 </p>
-<p style="display: inline">
+
+<div class="row">
+<div class="col-md-6" border: 1px solid;">
+<img alt= "Dominika i Ola" width="40%" src="IMG_7015.png"/>
+</div>
+<div class="row">
+<div class="col-md-6" border: 0px solid;">
+<img alt= "Dominika i Ola" width="40%" src="IMG_7226.png"/>
+</div>
+
+</div>
+      
 <img alt= "Dominika i Ola" width="40%" src="IMG_7015.png"/>
 <img alt= "Dominika i Ola" width="40%" src="IMG_7226.png"/>
-</p>
+
 <p>
 <br>Poza twórczością, łączy nas także zamiłowanie do <span class="text-accent">podróży</span> i dobrego jedzenia, a zwłaszcza <span class="text-accent">lodów</span>.
 </p>
 <p>
-<img width="60%" alt="Dominika i Olga"src="IMG_6754.png">
+<img width="80%" alt="Dominika i Olga"src="IMG_6754.png">
 </p>
 <p>
 <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1.5rem;" />
