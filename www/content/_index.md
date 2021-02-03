@@ -5,15 +5,16 @@
 {{< h 3 >}}Piszemy pięknie o Bogu, wierze i Kościele.{{< /h>}}
 <h1 class="pink-headline">Dosłownie.</h1>
   {{% dots 3 %}}
-  <br />
 </span>
 
 <p>
+  <br />
 Głęboko wierzymy, że człowiek najpełniej {{< pink >}}rozkwita{{< /pink >}}, kiedy na co dzień żyje {{< pink >}}Dobrą Nowiną {{< /pink >}}. <br />
   Pragniemy {{< pink >}}dzielić się tym przesłaniem {{< /pink >}} z Tobą. Jesteśmy Dominika i Olga. Naszą misją jest pisanie pięknie o {{< pink >}}Bogu{{< /pink >}}, {{< pink >}}wierze{{< /pink >}} i {{< pink >}}Kościele{{< /pink >}}.
-<br>
+<br />
 
   <h2 class="pink-headline2">Dosłownie.</h2>
+  <br />
  </p>
 
 {{% dots 3 %}}
