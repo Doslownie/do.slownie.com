@@ -1,5 +1,5 @@
  ## {{< h 3 >}}O nas{{< /h>}}
- <h2 class="pink-headline3">Jesteśmy Dominika i Olga.</h2>
+ <h3 class="pink-headline3">Jesteśmy Dominika i Olga.</h3>
 <img alt= "Dominika i Ola" width="80%" src="IMG_6761.png"/>
 <p>
 <br>
@@ -25,16 +25,10 @@ Jest niesamowicie kreatywna, pracowita i empatyczna. Uwielbiam z nią współpra
 <span class="h3 text-dots">•••</span>
 </p>
 
-<div class="row">
-<div class="col-lg-3">
+<p display="inline">
 <img width="50%" alt= "Dominika i Ola" src="IMG_7015.png"/>
-</div>
-<div class="row">
-<div class="col-lg-3">
 <img width="50% alt= "Dominika i Ola" src="IMG_7226.png"/>
-</div>
-
-</div>
+ </p>
       
 
 <p>
