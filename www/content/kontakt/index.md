@@ -8,7 +8,7 @@ Jeżeli <span class="text-accent">podoba Ci się</span> nasza twórczość i chc
 <h2 class="text-handwritten">napisz do nas:</h2>
 </p>
 <p>
-<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 1.5rem;" />
+<img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
 </p>
 <p>
 Dane kontaktowe:
