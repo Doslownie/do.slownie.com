@@ -14,7 +14,7 @@ Głęboko wierzymy, że człowiek najpełniej {{< pink >}}rozkwita{{< /pink >}},
 <br />
 
   <h2 class="pink-headline2">Dosłownie.</h2>
-  <br />
+  
  </p>
 
 {{% dots 3 %}}
