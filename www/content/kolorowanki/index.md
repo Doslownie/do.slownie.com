@@ -24,3 +24,7 @@ Możesz zamówić je poprzez poniższy <span class="text-accent">formularz</span
 
 <p>
 Po dokonaniu zamówienia otrzymasz od nas maila ze szczegółami dotyczącymi płatności. Po dokonaniu płatności wyślemy Ci plik z <span class="text-accent">kolorowankami</span>, które będziesz mógł wydrukować.
+  </p>
+  
+  <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
+  <img alt="Miniatura" src="Kolorowanki.png" style="width: 50%" />
