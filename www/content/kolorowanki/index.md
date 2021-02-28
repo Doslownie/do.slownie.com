@@ -28,49 +28,8 @@ Po dokonaniu zamówienia otrzymasz od nas maila ze szczegółami dotyczącymi p�
   <p>
   <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
   </p>
+  <p>
+  <img alt="Kolorowanki" src="Kolorowanki.png" style="width: 80%"/>
+  </p>
   
-<div class="row">
 
-<div class="col-lg-3">
-<img alt="kolorowanka1" src="kolorowanka1.png"/>
-</div>
-<div class="col-lg-3">
-<img alt="kolorowanka3" src="kolorowanka3.png"/>
-</div>
-<div class="col-lg-3">
-<img alt="kolorowanka4" src="kolorowanka4.png"/>
-</div>
-<div class="col-lg-3">
-<img alt="kolorowanka6" src="kolorowanka6.png"/>
-</div>
-
-</div>
-
-<div class="row">
-<div class="col-lg-4">
-<img alt="kolorowanka2" src="kolorowanka2.png"/>
-</div>
-<div class="col-lg-4">
-<img alt="kolorowanka5" src="kolorowanka5.png"/>
-</div>
-<div class="col-lg-4">
-<img alt="kolorowanka7" src="kolorowanka7.png"/>
-</div>
-</div>
-
-<div class="row">
-<div class="col-lg-4">
-<img alt="kolorowanka8" src="kolorowanka8.png"/>
-</div>
-<div class="col-lg-4">
-<img alt="kolorowanka9" src="kolorowanka9.png"/>
-</div>
-<div class="col-lg-4">
-<img alt="kolorowanka10" src="kolorowanka10.png"/>
-</div>
-</div>
-
-
-
-
-</div>
