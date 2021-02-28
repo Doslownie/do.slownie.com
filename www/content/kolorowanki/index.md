@@ -29,7 +29,7 @@ Po dokonaniu zamówienia otrzymasz od nas maila ze szczegółami dotyczącymi p�
   <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
   </p>
   <p>
-  <img alt="Kolorowanki" src="Kolorowanki.png" style="width: 80%"/>
+  <img alt="Miniaturki" src="miniatura.png"/>
   </p>
   
 
