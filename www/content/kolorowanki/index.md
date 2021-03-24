@@ -29,10 +29,10 @@ Po dokonaniu zamówienia otrzymasz od nas maila ze szczegółami dotyczącymi p�
   <img alt="Ikona pióra" src="/img/pen-icon.svg" style="width: 2rem;" />
   </p>
   <p>
- Mamy też małą <span class="text-accent">niespodziankę</span> w związku ze zbliżającymi się <span class="text-accent">Świętami Wielkanocnymi</span>. 
+ Mamy też małą <span class="text-accent">niespodziankę</span> w związku ze zbliżającymi się <span class="text-accent">Świętami Wielkanocnymi</span>! 
   <br>Przygotowałyśmy dla Was 3 kolorowanki na <span class="text-accent">Triduum Paschalne</span>. 
   <br>Są one dołączone do całego pakietu - to znaczy, że za 10 zł dostaniecie w sumie <span class="text-accent">13 kolorowanek</span>. 
-  <br>Jeżeli zamówiliście kolorowanki wcześniej, nie martwcie się - te 3 dodatkowe kolorowanki już są w Waszym folderze.
+  <br>Jeżeli złożyliście zamówienie wcześniej, nie martwcie się - te 3 dodatkowe kolorowanki już są w Waszym folderze.
   </p>
   <p>
   <img alt="Miniaturki" src="miniatura.png"/>
