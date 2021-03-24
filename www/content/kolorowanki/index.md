@@ -23,6 +23,9 @@ Możesz zamówić je poprzez poniższy <span class="text-accent">formularz</span
 </p>
 
 <p>
+ Mamy też dla Was <span class="text-accent">niespodziankę</span> w związku ze zbliżającymi się Świętami Wielkanocnymi. Przygotowałyśmy dla Was 3 kolorowanki na <span class="text-accent">Triduum Paschalne</span>. Są one dołączone do całego pakietu - to znaczy, że za 10 zł dostaniecie w sumie <span class="text-accent">13 kolorowanek</span>. Jeżeli zamówiliście kolorowanki wcześniej, nie martwcie się - te 3 dodatkowe kolorowanki już są w Waszym folderze.
+  </p>
+<p>
 Po dokonaniu zamówienia otrzymasz od nas maila ze szczegółami dotyczącymi płatności. Po dokonaniu płatności wyślemy Ci plik z <span class="text-accent">kolorowankami</span>, które będziesz mógł wydrukować.
   </p>
   <p>
